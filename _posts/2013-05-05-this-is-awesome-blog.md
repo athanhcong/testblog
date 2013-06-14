@@ -2,4 +2,7 @@
 layout: post
 title: This is awesome blog
 ---
-Yeah haha
+I want to edit this to make it much more better.
+
+  
+Now I just fixed editing note.
